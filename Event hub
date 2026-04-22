@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    
+    <header>
+
+        <h1>Event Hub</h1>
+
+        <nav>
+            <Ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </Ul>
+        </nav>
+
+    </header>
+
+    <main>
+        <section id="upcoming-events">
+
+            <h2>Upcoming Events</h2>
+
+            <article>
+                <h3>tech meet</h3>
+                <p>this tech meet will be on june first</p>
+            </article>
+
+        <article>
+            <h3>software meet</h3>
+            <p>this software meet will be on june third</p>
+        </article>
+
+        </section>
+
+        <section id="past-events">
+
+            <h2>Past Events</h2>
+
+            <article>
+                <h3>Past dev meets</h3>
+                <p>Past dev meets were awesome</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="ibm">
+            </article>
+
+            
+
+            <article>
+                <h3>Past hardware meets</h3>
+                <p>Past hardware meets were awesome</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="ibm
+                ">
+            </article>
+
+            
+        </section>
+    </main>
+
+</body>
+
+</html>
